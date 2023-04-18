@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../ansible"
+		},
+		{
+			"path": "../bash-scripting"
+		},
+		{
+			"path": "../shell-scripting"
+		}
+	],
+	"extensions": {
+		"recommendations": []
+	}
+}
