@@ -30,3 +30,5 @@ $ git branch brancName                             // Creates a branch from the 
 $ git checkout branchName                          // Switches to the created branch
 $ git checkout -b branchName                       // Creates a new branch from the main branch as source and swithes to the created branch
 $ git push origin remoteBranchName                 // Pushes the changes to the remote branch; If the branch doesn't exist on remote git, it creates by the same push   
+
+#this is a git branch

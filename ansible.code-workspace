@@ -7,10 +7,10 @@
 			"path": "../bash-scripting"
 		},
 		{
+			"path": "."
+		},
+		{
 			"path": "../shell-scripting"
 		}
-	],
-	"extensions": {
-		"recommendations": []
-	}
+	]
 }
